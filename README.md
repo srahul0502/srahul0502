@@ -19,7 +19,7 @@
 
 ### 📕 Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Introduction To DevOps](https://srdev.hashnode.dev/introduction-to-devops)
+- [DevOps Series](https://srdev.hashnode.dev/series/devops)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
